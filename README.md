@@ -10,7 +10,7 @@
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/kf-liu/date-box?display_name=tag&include_prereleases&sort=semver)
 ![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/kf-liu/date-box/latest?include_prereleases&sort=semver)
 ![GitHub](https://img.shields.io/github/license/kf-liu/date-box)
-
+ 
 ---
 
 > 📌 This project is inspired by [waka-box](https://github.com/matchai/waka-box) and [lang-box](https://github.com/inokawa/lang-box). 
